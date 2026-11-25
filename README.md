@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Previewarr" width="560">
+</p>
+
 # Previewarr (preview)
 
 **Previewarr** is a preview of the next [Viewarr](https://github.com/petebutty/viewarr) interface for Android TV: a home screen of tiles and rows on Viewarr's live TV, guide, films and shows, music and sports, with one simple Settings page.
