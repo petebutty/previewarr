@@ -10,7 +10,7 @@ This repository only holds Previewarr's **downloads**. The code, the issues and 
 ## Install
 
 1. On your TV, install the **Downloader** app (by AFTVnews).
-2. Enter the code **9332422**, or this link (both always get the newest version):
+2. Enter the code **6733457**, or this link (both always get the newest version):
 
    `https://github.com/petebutty/previewarr/releases/latest/download/previewarr.apk`
 
